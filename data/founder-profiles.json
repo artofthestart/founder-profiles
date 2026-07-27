@@ -1,0 +1,213 @@
+{
+  "name": "Founder & Operator Profiles",
+  "description": "Written profiles of founders, executives, and builders: background, what they are building, and what they have shipped.",
+  "source": "https://artofthestart.com",
+  "licence": "CC-BY-4.0",
+  "updated": "2026-07-27",
+  "count": 29,
+  "entries": [
+    {
+      "name": "Ali Ghodsi",
+      "description": "Co-founder and CEO of Databricks",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/ali-ghodsi/"
+    },
+    {
+      "name": "Allison Hild",
+      "description": "Cincinnati workplace transition specialist and career coach",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/allison-hild-cincinnati/"
+    },
+    {
+      "name": "Anton Osika",
+      "description": "Co-founder and CEO of Lovable",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/anton-osika/"
+    },
+    {
+      "name": "Dario Amodei",
+      "description": "Co-founder and CEO of Anthropic",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/dario-amodei/"
+    },
+    {
+      "name": "Dave Rogenmoser",
+      "description": "Co-founder and CEO of Jasper",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/dave-rogenmoser/"
+    },
+    {
+      "name": "Elon Musk",
+      "description": "Founder and CEO of SpaceX",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/elon-musk/"
+    },
+    {
+      "name": "Emma Chamberlain",
+      "description": "Founder of Chamberlain Coffee",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/emma-chamberlain/"
+    },
+    {
+      "name": "Eoghan McCabe",
+      "description": "Co-founder and CEO of Intercom",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/eoghan-mccabe/"
+    },
+    {
+      "name": "Erhan Ciris",
+      "description": "Founder and CEO of 4D Sight",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/erhan-ciris/"
+    },
+    {
+      "name": "Faranak Firozan",
+      "description": "Executive and life coach helping Silicon Valley professionals align ambition with wellbeing",
+      "category": "Consumer",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/faranak-firozan-california/"
+    },
+    {
+      "name": "Frank VanderSloot",
+      "description": "Founder and Executive Chairman of Melaleuca, The Wellness Company",
+      "category": "Consumer",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/frank-vandersloot/"
+    },
+    {
+      "name": "Gavin Uberti",
+      "description": "Co-founder and CEO of Etched",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/gavin-uberti/"
+    },
+    {
+      "name": "Gregory Graf",
+      "description": "Founder & CEO, Snake River Strategies",
+      "category": "Media & Creator",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/gregory-graf-idaho/"
+    },
+    {
+      "name": "Hannah Neeleman",
+      "description": "Co-Founder of Ballerina Farm and former professional ballerina",
+      "category": "Consumer",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/hannah-neeleman/"
+    },
+    {
+      "name": "Jan Oberhauser",
+      "description": "Founder and CEO of n8n",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/jan-oberhauser/"
+    },
+    {
+      "name": "Kathy Taylor",
+      "description": "Retired womens lacrosse coach and 2018 NCAA Division II national champion",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/kathy-taylor-lacrosse-coach/"
+    },
+    {
+      "name": "Kristi Hardy",
+      "description": "Founder of Cinderella Dress Rentals and a community advocate in Kuna, Idaho",
+      "category": "Consumer",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/kristi-hardy/"
+    },
+    {
+      "name": "Lucjan Suski",
+      "description": "Co-founder and CEO of Surfer SEO",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/lucjan-suski/"
+    },
+    {
+      "name": "Marques Brownlee",
+      "description": "Founder of MKBHD and Studio MKBHD",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/marques-brownlee/"
+    },
+    {
+      "name": "Max Lytvyn",
+      "description": "Co-founder of Grammarly",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/max-lytvyn/"
+    },
+    {
+      "name": "Melanie Perkins",
+      "description": "Co-founder and CEO of Canva",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/melanie-perkins/"
+    },
+    {
+      "name": "Patrick Collison",
+      "description": "Co-founder and CEO of Stripe",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/patrick-collison/"
+    },
+    {
+      "name": "Sam Altman",
+      "description": "Co-founder and CEO of OpenAI",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/sam-altman/"
+    },
+    {
+      "name": "Sam Liang",
+      "description": "Co-founder and CEO of Otter.ai",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/sam-liang/"
+    },
+    {
+      "name": "Shashank Murali",
+      "description": "Co-founder of TapChief, building Airlearn",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/shashank-murali/"
+    },
+    {
+      "name": "Stuart Squires",
+      "description": "Clinical Director at Vive Adolescent Care",
+      "category": "HealthTech",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/stuart-squires-vive-adolescent-care/"
+    },
+    {
+      "name": "Tim Zheng",
+      "description": "Co-founder and CEO of Apollo.io",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/tim-zheng/"
+    },
+    {
+      "name": "Valerie Mills",
+      "description": "Founder of Mills Marketing and St. Louis social media consultant",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/valerie-mills/"
+    },
+    {
+      "name": "Wade Foster",
+      "description": "Co-founder and CEO of Zapier",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/wade-foster/"
+    }
+  ]
+}
