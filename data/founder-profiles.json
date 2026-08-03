@@ -3,8 +3,8 @@
   "description": "Written profiles of founders, executives, and builders: background, what they are building, and what they have shipped.",
   "source": "https://artofthestart.com",
   "licence": "CC-BY-4.0",
-  "updated": "2026-07-27",
-  "count": 29,
+  "updated": "2026-08-03",
+  "count": 32,
   "entries": [
     {
       "name": "Ali Ghodsi",
@@ -26,6 +26,13 @@
       "category": "Other",
       "website": null,
       "profile": "https://artofthestart.com/bio/anton-osika/"
+    },
+    {
+      "name": "Claire Vo",
+      "description": "Founder and CEO of ChatPRD, three-time chief product officer, host of How I AI",
+      "category": "SaaS",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/claire-vo/"
     },
     {
       "name": "Dario Amodei",
@@ -110,6 +117,13 @@
       "category": "Other",
       "website": null,
       "profile": "https://artofthestart.com/bio/jan-oberhauser/"
+    },
+    {
+      "name": "Jeffrey Morgan",
+      "description": "Co-founder and CEO of Ollama, and previously a builder of Docker Desktop",
+      "category": "Developer Tools",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/jeffrey-morgan/"
     },
     {
       "name": "Kathy Taylor",
@@ -208,6 +222,13 @@
       "category": "Other",
       "website": null,
       "profile": "https://artofthestart.com/bio/wade-foster/"
+    },
+    {
+      "name": "Yang Zhilin",
+      "description": "Co-founder and CEO of Moonshot AI, and a co-author of Transformer-XL and XLNet",
+      "category": "AI / ML",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/yang-zhilin/"
     }
   ]
 }

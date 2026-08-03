@@ -2,7 +2,7 @@
 
 An open index of founder and operator profiles published by Art of the Startup. Each entry links to a full written profile.
 
-**29 entries · updated 2026-07-27** · Browsable version: **[https://artofthestart.github.io/founder-profiles/](https://artofthestart.github.io/founder-profiles/)**
+**32 entries · updated 2026-08-03** · Browsable version: **[https://artofthestart.github.io/founder-profiles/](https://artofthestart.github.io/founder-profiles/)**
 
 > Written profiles of founders, executives, and builders: background, what they are building, and what they have shipped.
 
@@ -24,7 +24,7 @@ not placement in this list or a position in the ordering.
 - [G](#g) (2)
 - [H](#h) (2)
 - [L](#l) (2)
-- [M](#m) (4)
+- [M](#m) (5)
 - [N](#n) (1)
 - [O](#o) (2)
 - [P](#p) (1)
@@ -32,8 +32,8 @@ not placement in this list or a position in the ordering.
 - [S](#s) (2)
 - [T](#t) (1)
 - [U](#u) (1)
-- [V](#v) (1)
-- [Z](#z) (1)
+- [V](#v) (2)
+- [Z](#z) (2)
 
 ---
 
@@ -92,6 +92,7 @@ not placement in this list or a position in the ordering.
 |---|---|---|---|
 | **[Eoghan McCabe](https://artofthestart.com/bio/eoghan-mccabe/)** | Co-founder and CEO of Intercom | San Francisco, California | Intercom |
 | **[Valerie Mills](https://artofthestart.com/bio/valerie-mills/)** | Founder of Mills Marketing and St. Louis social media consultant | St. Louis, Missouri | Mills Marketing |
+| **[Jeffrey Morgan](https://artofthestart.com/bio/jeffrey-morgan/)** | Co-founder and CEO of Ollama, and previously a builder of Docker Desktop | San Francisco, CA | Ollama |
 | **[Shashank Murali](https://artofthestart.com/bio/shashank-murali/)** | Co-founder of TapChief, building Airlearn | Bangalore, Karnataka | Airlearn |
 | **[Elon Musk](https://artofthestart.com/bio/elon-musk/)** | Founder and CEO of SpaceX | Austin, Texas | SpaceX |
 
@@ -144,12 +145,14 @@ not placement in this list or a position in the ordering.
 | Name | Known for | Based in | Company |
 |---|---|---|---|
 | **[Frank VanderSloot](https://artofthestart.com/bio/frank-vandersloot/)** | Founder and Executive Chairman of Melaleuca, The Wellness Company | Idaho Falls, Idaho | Melaleuca, The Wellness Company |
+| **[Claire Vo](https://artofthestart.com/bio/claire-vo/)** | Founder and CEO of ChatPRD, three-time chief product officer, host of How I AI | San Francisco, CA | ChatPRD |
 
 ### Z
 
 | Name | Known for | Based in | Company |
 |---|---|---|---|
 | **[Tim Zheng](https://artofthestart.com/bio/tim-zheng/)** | Co-founder and CEO of Apollo.io | San Francisco, California | Apollo.io |
+| **[Yang Zhilin](https://artofthestart.com/bio/yang-zhilin/)** | Co-founder and CEO of Moonshot AI, and a co-author of Transformer-XL and XLNet | Beijing | Moonshot AI |
 
 ---
 
@@ -172,7 +175,7 @@ to Art of the Startup is all we ask.
 ## Other lists from Art of the Startup
 
 - [AI Tools Directory](https://github.com/artofthestart/ai-tools-directory) — 26 entries
-- [Startup & Company Directory](https://github.com/artofthestart/startup-directory) — 39 entries
+- [Startup & Company Directory](https://github.com/artofthestart/startup-directory) — 42 entries
 
 ## Corrections
 
