@@ -2,7 +2,7 @@
 
 An open index of founder and operator profiles published by Art of the Startup. Each entry links to a full written profile.
 
-**32 entries · updated 2026-08-17** · Browsable version: **[https://artofthestart.github.io/founder-profiles/](https://artofthestart.github.io/founder-profiles/)**
+**32 entries · updated 2026-08-24** · Browsable version: **[https://artofthestart.github.io/founder-profiles/](https://artofthestart.github.io/founder-profiles/)**
 
 > Written profiles of founders, executives, and builders: background, what they are building, and what they have shipped.
 
