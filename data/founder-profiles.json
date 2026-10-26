@@ -3,8 +3,8 @@
   "description": "Written profiles of founders, executives, and builders: background, what they are building, and what they have shipped.",
   "source": "https://artofthestart.com",
   "licence": "CC-BY-4.0",
-  "updated": "2026-10-19",
-  "count": 32,
+  "updated": "2026-10-26",
+  "count": 34,
   "entries": [
     {
       "name": "Ali Ghodsi",
@@ -112,6 +112,13 @@
       "profile": "https://artofthestart.com/bio/hannah-neeleman/"
     },
     {
+      "name": "Herb Morgan",
+      "description": "Founder of Efficient Market Advisors and 2026 candidate for California State Controller",
+      "category": "Fintech",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/herb-morgan/"
+    },
+    {
       "name": "Jan Oberhauser",
       "description": "Founder and CEO of n8n",
       "category": "Other",
@@ -145,6 +152,13 @@
       "category": "Other",
       "website": null,
       "profile": "https://artofthestart.com/bio/lucjan-suski/"
+    },
+    {
+      "name": "Malia Cohen",
+      "description": "California State Controller whose tenure has drawn scrutiny over audits, late reports and unclaimed property",
+      "category": "Other",
+      "website": null,
+      "profile": "https://artofthestart.com/bio/malia-cohen/"
     },
     {
       "name": "Marques Brownlee",

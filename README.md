@@ -2,7 +2,7 @@
 
 An open index of founder and operator profiles published by Art of the Startup. Each entry links to a full written profile.
 
-**32 entries · updated 2026-10-19** · Browsable version: **[https://artofthestart.github.io/founder-profiles/](https://artofthestart.github.io/founder-profiles/)**
+**34 entries · updated 2026-10-26** · Browsable version: **[https://artofthestart.github.io/founder-profiles/](https://artofthestart.github.io/founder-profiles/)**
 
 > Written profiles of founders, executives, and builders: background, what they are building, and what they have shipped.
 
@@ -19,12 +19,12 @@ not placement in this list or a position in the ordering.
 
 - [A](#a) (2)
 - [B](#b) (1)
-- [C](#c) (3)
+- [C](#c) (4)
 - [F](#f) (2)
 - [G](#g) (2)
 - [H](#h) (2)
 - [L](#l) (2)
-- [M](#m) (5)
+- [M](#m) (6)
 - [N](#n) (1)
 - [O](#o) (2)
 - [P](#p) (1)
@@ -56,6 +56,7 @@ not placement in this list or a position in the ordering.
 |---|---|---|---|
 | **[Emma Chamberlain](https://artofthestart.com/bio/emma-chamberlain/)** | Founder of Chamberlain Coffee | Los Angeles, California | Chamberlain Coffee |
 | **[Erhan Ciris](https://artofthestart.com/bio/erhan-ciris/)** | Founder and CEO of 4D Sight | New York City | 4D Sight |
+| **[Malia Cohen](https://artofthestart.com/bio/malia-cohen/)** | California State Controller whose tenure has drawn scrutiny over audits, late reports and unclaimed property | San Francisco, CA | California State Controller's Office |
 | **[Patrick Collison](https://artofthestart.com/bio/patrick-collison/)** | Co-founder and CEO of Stripe | San Francisco, California | Stripe |
 
 ### F
@@ -92,6 +93,7 @@ not placement in this list or a position in the ordering.
 |---|---|---|---|
 | **[Eoghan McCabe](https://artofthestart.com/bio/eoghan-mccabe/)** | Co-founder and CEO of Intercom | San Francisco, California | Intercom |
 | **[Valerie Mills](https://artofthestart.com/bio/valerie-mills/)** | Founder of Mills Marketing and St. Louis social media consultant | St. Louis, Missouri | Mills Marketing |
+| **[Herb Morgan](https://artofthestart.com/bio/herb-morgan/)** | Founder of Efficient Market Advisors and 2026 candidate for California State Controller | San Diego, CA | Herb Morgan for State Controller 2026 |
 | **[Jeffrey Morgan](https://artofthestart.com/bio/jeffrey-morgan/)** | Co-founder and CEO of Ollama, and previously a builder of Docker Desktop | San Francisco, CA | Ollama |
 | **[Shashank Murali](https://artofthestart.com/bio/shashank-murali/)** | Co-founder of TapChief, building Airlearn | Bangalore, Karnataka | Airlearn |
 | **[Elon Musk](https://artofthestart.com/bio/elon-musk/)** | Founder and CEO of SpaceX | Austin, Texas | SpaceX |
